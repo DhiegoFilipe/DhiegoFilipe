@@ -7,9 +7,9 @@
 - 🌱 Estudando no momento todo o universo do Front-end, na faculdade UniFatecie (Análise e Desenvolvimento de Sistemas) e Programador Front-end (Senai)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://www.alura.com.br/artigos/javascript?gclid=CjwKCAjw5pShBhB_EiwAvmnNVzrohzsQILqFIsBLdpbPXfyDHUU1iy-gUaiAfnF7dZSaKMvgQl3GOxoCBr8QAvD_BwE"> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://www.w3.org/TR/CSS/#css"> <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <a  href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="40" height="30" align="center" alt="Angular" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="30" align="center" alt="Python" /></a>
 </div>
