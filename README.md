@@ -1,5 +1,5 @@
 
-## Tudo bem? Eu sou o Dhiego Filipe! !
+## Tudo bem? Eu sou o Dhiego Filipe! 🤙🏾
 
 
 ![7aa1c6d6b121fffe849a7c3313c7f22036df184c](https://user-images.githubusercontent.com/126776548/228942131-affdcf4b-3d17-4138-9308-1f5b9e3d87b4.gif)
